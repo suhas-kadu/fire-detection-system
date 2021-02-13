@@ -1,4 +1,4 @@
-<h1 style="text-align: center">  Fire Detection System </h1>
+<h1 align="center">Fire Detection System </h1>
 
 ## Inspiration
 
@@ -27,4 +27,12 @@ I have got an understanding of Embedded C and different sensor. In future I'll b
 ## What's next for Fire Detection System
 
 In future this system can be modified to cover a large area and other sensors like temperature sensor can also be added which will make the system better. Also a push button can be added in case a user wants to start the alarm.
+
+## Results
+
+<img src="screenshots/ss3.PNG" width="500">
+<center>Everythng is safe</center>
+
+<img src="screenshots/ss4.PNG" width="500">
+<center>Fire is detected</center>
 
