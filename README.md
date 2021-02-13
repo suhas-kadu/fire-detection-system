@@ -29,10 +29,12 @@ I have got an understanding of Embedded C and different sensor. In future I'll b
 In future this system can be modified to cover a large area and other sensors like temperature sensor can also be added which will make the system better. Also a push button can be added in case a user wants to start the alarm.
 
 ## Results
+            
+<p align="center">
+<img src="screenshots/ss3.PNG" width="500"> <br />
+Everythng is safe
+</p>
 
-<img src="screenshots/ss3.PNG" width="500">
-<center>Everythng is safe</center>
-
-<img src="screenshots/ss4.PNG" width="500">
-<center>Fire is detected</center>
-
+<p align="center">
+<img src="screenshots/ss4.PNG" width="500"> <br />
+Fire is detected <br />
